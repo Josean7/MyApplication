@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate();
     }
+    /
 
   public void mostraMissatge(View view) {
        Toast.makeText(this,"aids!", Toast.LENGTH_LONG).show();
